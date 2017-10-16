@@ -1,5 +1,5 @@
 pkg_name=sample-node-app
-pkg_origin=letmetrythis
+pkg_origin=letmetrythisout
 pkg_scaffolding="core/scaffolding-node"
 pkg_version="1.0.1"
 
